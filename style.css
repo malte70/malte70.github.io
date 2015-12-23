@@ -1,0 +1,54 @@
+@import url(normalize.css);
+
+body {
+	font: 18px 'Inconsolata-g', 'Inconsolata', monospace;
+	margin-left: 4.5em;
+}
+body main > * {
+	margin-bottom: 1em;
+	margin-top: 0.8em;
+}
+main {
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+}
+pre {
+	background: #ddd;
+	border: 1px solid #aaa;
+	padding: 1em;
+}
+code {
+	white-space: pre;
+}
+h1:before {
+	display: inline-block;
+	width: 2em;
+	text-align: right;
+	margin-left: -2.8em;
+	padding-right: .1em;
+	content:"# ";
+}
+h2:before {
+	display: inline-block;
+	width: 2em;
+	text-align: right;
+	margin-left: -2.7em;
+	padding-right: .7em;
+	content:"## ";
+}
+h1 a:link,
+h1 a:visited {
+	text-decoration: none;
+}
+a:link, a:visited {
+	color: #111;
+}
+footer {
+	font-size: .8em;
+	color: #4A4A4A;
+	margin: 5em 0 0;
+}
+footer p {
+	margin: 0;
+	display: inline-block;
+}

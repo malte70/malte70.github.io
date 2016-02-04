@@ -1,0 +1,53 @@
+https://keybase.io/malte70
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://malte70.github.io
+  * I am malte70 (https://keybase.io/malte70) on keybase.
+  * I have a public key ASD0TC-gatn8iWR9U0ksGHBqDBoq3XGLzoFFViyMiIfidQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f44c2fa06ad9fc89647d53492c18706a0c1a2add718bce8145562c8c8887e2750a",
+            "host": "keybase.io",
+            "kid": "0120f44c2fa06ad9fc89647d53492c18706a0c1a2add718bce8145562c8c8887e2750a",
+            "uid": "eee75484fd0af82426eeb1090d3b9619",
+            "username": "malte70"
+        },
+        "service": {
+            "hostname": "malte70.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1454545545,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454544968,
+        "hash": "251c7914e882654482c17177ce7b242ae95569e11fbb95d40157a4d4a5a3c4944b53f7ea724ccf5bd21e7102a0ef4dce3ccdc50ba9a2962802fcda45abcafdf7",
+        "seqno": 361163
+    },
+    "prev": "e524fb5012de1d392db85ac54546aeae00cec4a20b7f7f755a1d5854265c0118",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9EwvoGrZ/IlkfVNJLBhwagwaKt1xi86BRVYsjIiH4nUKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjQ0YzJmYTA2YWQ5ZmM4OTY0N2Q1MzQ5MmMxODcwNmEwYzFhMmFkZDcxOGJjZTgxNDU1NjJjOGM4ODg3ZTI3NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjQ0YzJmYTA2YWQ5ZmM4OTY0N2Q1MzQ5MmMxODcwNmEwYzFhMmFkZDcxOGJjZTgxNDU1NjJjOGM4ODg3ZTI3NTBhIiwidWlkIjoiZWVlNzU0ODRmZDBhZjgyNDI2ZWViMTA5MGQzYjk2MTkiLCJ1c2VybmFtZSI6Im1hbHRlNzAifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1hbHRlNzAuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuOSJ9LCJjdGltZSI6MTQ1NDU0NTU0NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU0NTQ0OTY4LCJoYXNoIjoiMjUxYzc5MTRlODgyNjU0NDgyYzE3MTc3Y2U3YjI0MmFlOTU1NjllMTFmYmI5NWQ0MDE1N2E0ZDRhNWEzYzQ5NDRiNTNmN2VhNzI0Y2NmNWJkMjFlNzEwMmEwZWY0ZGNlM2NjZGM1MGJhOWEyOTYyODAyZmNkYTQ1YWJjYWZkZjciLCJzZXFubyI6MzYxMTYzfSwicHJldiI6ImU1MjRmYjUwMTJkZTFkMzkyZGI4NWFjNTQ1NDZhZWFlMDBjZWM0YTIwYjdmN2Y3NTVhMWQ1ODU0MjY1YzAxMTgiLCJzZXFubyI6MjIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAudzgLPc9tnVvBl02vK2BK/gUIEL5Co2KVaIXX97zJCsADbv3Kzjb6gor87gy39eAH6ZFDn7wk3GMfvbf4iSjD6hzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/malte70
+
+==================================================================

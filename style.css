@@ -43,6 +43,13 @@ h1 a:visited {
 a:link, a:visited {
 	color: #111;
 }
+dl dt {
+	margin-bottom: .5em;
+}
+dl dd {
+	/*margin-bottom: .5em;*/
+	margin-bottom: 1em;
+}
 footer {
 	font-size: .8em;
 	color: #4A4A4A;
